@@ -10,6 +10,7 @@ namespace BorsaOtomasyonu22_oceymhdev
   {
     static void Main(string[] args)
     {
+      //ana proje kaynağı OCEYMHDEV 
     }
   }
 }
